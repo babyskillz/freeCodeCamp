@@ -20,4 +20,5 @@ The `<footer>` tag denotes the footer of an HTML document or section. Typically,
 ```
 
 #### More Information:
-[MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer)
+- [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer)
+- [HTML Footer Tag](https://www.w3schools.com/tags/tag_footer.asp)
