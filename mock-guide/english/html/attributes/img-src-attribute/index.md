@@ -38,3 +38,4 @@ For example, `<img src="images/freeCodeCamp.jpeg>` would work if you had a folde
 
 - [HTML.com](https://html.com/attributes/img-src/)
 - [W3 Schools](https://www.w3schools.com/tags/att_img_src.asp)
+- [IMG Tag Attributes](https://www.lifewire.com/img-tag-attributes-3466493)
