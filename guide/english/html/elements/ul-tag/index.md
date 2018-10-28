@@ -45,4 +45,7 @@ You would use this HTML code:
 
 ## Other Resources
 - [The ordered list `<ol>`](https://github.com/freeCodeCamp/guides/blob/master/src/pages/html/elements/ol-tag/index.md)
+- [Lists in HTML documents](https://www.w3.org/TR/html401/struct/lists.html)
 
+## More Info
+- [The Unordered List](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
