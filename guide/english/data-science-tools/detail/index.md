@@ -27,3 +27,9 @@ Business/Product Intuition - Interpret and communicate results to non-technical 
 6 - Validate Model
 7 - Deploy Model
 8 - Evalute or Monitor Results
+
+## More Info and Help
+-[What is a Data Scientist] <https://www.sas.com/en_us/insights/analytics/what-is-a-data-scientist.html>
+
+-[9 Skills You Need]<https://www.kdnuggets.com/2018/05/simplilearn-9-must-have-skills-data-scientist.html>
+   
